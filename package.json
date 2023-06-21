@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Modulos 1 do Curso de Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagneramaro/nodejs.git"
+  },
+  "author": "Wagner Amaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagneramaro/nodejs/issues"
+  },
+  "homepage": "https://github.com/wagneramaro/nodejs#readme"
+}
