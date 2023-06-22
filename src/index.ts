@@ -1,8 +1,10 @@
+import * as Matematica from './Matematica';
 let nome : string = 'Wagner';
 let idade :number = 36;
 console.log(`Meu nome é ${nome} e tenho ${idade} anos.`);
 
-const Matematica = require('./Matematica');
+/*CommunsJS 
+const Matematica = require('./Matematica'); */
 
 let n1: number = 10;
 let n2: number = 25;
